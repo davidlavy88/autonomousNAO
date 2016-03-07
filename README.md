@@ -4,7 +4,7 @@ Final code for EC520 Project called "Autonomous Navigation with NAO"
 
 Description of the most important files used in this project:
 
-COM.py : Calculates center of mass for a picture with a red ball.
+COM.py : Calculates center of mass for a picture with a red ball. <br />
 Contour.py : Calculates the contour of a red ball using HSV thresholding
 ContourErr.py : Calculates the contour of a red ball, applying error metrics (specified in the report).
 circle.py : Calculates the contour of a red ball using minimum enclosing circle method.
